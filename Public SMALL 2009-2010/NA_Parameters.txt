@@ -1,0 +1,4 @@
+Created from the public VAERS database on Wed Apr 19 09:15:18 EDT 2017
+Report IDs supplied from file:
+H:\Transfer\Public SMALL IDs.csv
+
